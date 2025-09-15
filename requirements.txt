@@ -49,3 +49,5 @@ bqplot
 jupyterlab-filesystem-access==0.6.0
 jupyterlab_tour==4.0.1
 jupyterlab-open-url-parameter==0.3.0
+jupyterlab-language-pack-es-ES
+jupyterlab-language-pack-ca-ES
